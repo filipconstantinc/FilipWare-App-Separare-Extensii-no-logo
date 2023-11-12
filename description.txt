@@ -1,0 +1,26 @@
+
+**Descrierea Software-ului:**
+
+"FilipWare's App Separare Extensii" este o aplicatie desktop prietenoasa destinata sa simplifice procesul de separare a numelui si extensiei fisierelor dintr-o lista de siruri stocate intr-un fisier CSV. Programul ofera o interfata grafica utilizator (GUI) convenabila pentru o experienta utilizator fara efort.
+
+**Caracteristici Cheie:**
+- **Intrare:** Importati cu usurinta un fisier CSV continand o lista de siruri.
+- **Procesare:** Separa automat sirurile de intrare in nume si extensii de fisiere.
+- **Iesire:** Genereaza un nou fisier CSV cu doua coloane: una pentru nume si cealalta pentru extensii.
+
+**Cerinte de Sistem:**
+- Compatibil cu Windows
+
+---
+
+**Software Description:**
+
+The "FilipWare's File Extension Separator" is a user-friendly desktop application designed to simplify the process of separating file names and extensions from a list of strings stored in a CSV file. The program offers a convenient graphical user interface (GUI) for an effortless user experience.
+
+**Key Features:**
+- **Input:** Easily import a CSV file containing a list of strings.
+- **Processing:** Automatically splits the input strings into file names and extensions.
+- **Output:** Generates a new CSV file with two columns: one for names and the other for extensions.
+
+**System Requirements:**
+- Compatible with Windows

@@ -1,0 +1,60 @@
+
+**Cum sa Utilizati:**
+
+1. **Pornirea Aplicatiei:**
+   - Dublu-click pe iconita aplicatiei pentru a deschide Separatorul de Extensii de Fisiere.
+
+2. **Selectare Fisier CSV:**
+   - Apasati butonul "Selectati Fisierul CSV".
+   - Alegeti fisierul CSV care contine lista de siruri.
+
+3. **Alegere Locatie Iesire:**
+   - Dupa selectarea fisierului de intrare, aplicatia va cere sa alegeti o locatie pentru a salva fisierul CSV de iesire.
+
+4. **Procesare:**
+   - Aplicatia va procesa automat intrarea, separand sirurile in nume si extensii.
+
+5. **Finalizare:**
+   - Odata ce procesarea este completa, aplicatia va afisa un mesaj indicand crearea cu succes a fisierului CSV de iesire.
+
+6. **Explorare Iesire:**
+   - Navigati catre locatia specificata pentru a gasi noul fisier CSV generat cu nume si extensii separate.
+
+7. **Iesire:**
+   - Inchideti aplicatia cand ati terminat.
+
+**Nota:**
+- Respectati drepturile de autor si restrictiile de licentiere atunci cand utilizati sigle sau imagini.
+
+Acest software ofera o solutie eficienta pentru utilizatorii care au nevoie sa organizeze si sa separe numele si extensiile de fisiere intr-un fisier CSV. Interfata intuitiva si instructiunile detaliate fac acest software accesibil pentru utilizatorii de toate nivelurile de expertiza tehnica.
+
+---
+
+**How to Use:**
+
+1. **Launch the Application:**
+   - Double-click on the application icon to open the File Extension Separator.
+
+2. **Select CSV File:**
+   - Click the "Select CSV File" button.
+   - Choose the CSV file containing your list of strings.
+
+3. **Choose Output Location:**
+   - After selecting the input file, the application will prompt you to choose a location to save the output CSV file.
+
+4. **Processing:**
+   - The application will automatically process the input, splitting strings into names and extensions.
+
+5. **Completion:**
+   - Once processing is complete, the application will display a message indicating the successful creation of the output CSV file.
+
+6. **Explore Output:**
+   - Navigate to the specified output location to find the newly generated CSV file with separated names and extensions.
+
+7. **Exit:**
+   - Close the application when done.
+
+**Note:**
+- Respect copyright and licensing restrictions.
+
+This software provides a streamlined solution for users who need to organize and separate file names and extensions within a CSV file. The intuitive interface and detailed instructions make it accessible for users of all levels of technical expertise.
